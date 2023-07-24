@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXIgUxdD+dkafWfSehW9oWsrDEDnkkZi+m8BpOY+LwPa0g9Qa1t7Kqemk5XbZAEcvDtYiU8TJBh9l/8ZWUsLXA==",
+  "dgSpecHash": "CSIrj2aTn2ia78jvVdKb8uTHCL4H1LlcKP4lkEB6We7q3ce3BeoyMprfPwpkz8CekK3LIjlukDA7TqLdR9cCFg==",
   "success": true,
-  "projectFilePath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.Android\\JuanArangoXamarinApp.Android.csproj",
+  "projectFilePath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.Android\\JuanArangoXamarinApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jarango\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jarango\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638256218719662349
+_nugetassetstimestamp=638258109371169583
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\fuentes\xamarin\capacitacionmobilexamarin\juanarangoxamarinapp\juanarangoxamarinapp\juanarangoxamarinapp.android\juanarangoxamarinapp.android.csproj
+projectfullpath=c:\xamarin\jarangoxamarin\juanarangoxamarinapp\juanarangoxamarinapp\juanarangoxamarinapp.android\juanarangoxamarinapp.android.csproj

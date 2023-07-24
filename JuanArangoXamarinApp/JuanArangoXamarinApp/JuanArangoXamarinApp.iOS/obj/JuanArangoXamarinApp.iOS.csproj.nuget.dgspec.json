@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj": {}
+    "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj": {
+    "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
+        "projectUniqueName": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
         "projectName": "JuanArangoXamarinApp.iOS",
-        "projectPath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
+        "projectPath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
         "packagesPath": "C:\\Users\\jarango\\.nuget\\packages\\",
-        "outputPath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\obj\\",
+        "outputPath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj": {
-                "projectPath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj"
+              "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj": {
+                "projectPath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj": {
+    "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
+        "projectUniqueName": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
         "projectName": "JuanArangoXamarinApp",
-        "projectPath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
+        "projectPath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
         "packagesPath": "C:\\Users\\jarango\\.nuget\\packages\\",
-        "outputPath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\obj\\",
+        "outputPath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

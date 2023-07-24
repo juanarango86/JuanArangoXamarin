@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dhfLlXhD0jdITHy3/b4l0qhFRxxMTFwYgFHJXsf9DDkPh7gWM1HZtr16N1lBmCnPuwqpA5eMqW2Oto35GQmVIw==",
+  "dgSpecHash": "/lcKR0NhCp/uuRxLdPWZcqU/egQzgRUT70z/+zsoW8y6Qnflwc9sztWf8KtAvta7bGyySHZXWE9nIKNd3tRlNA==",
   "success": true,
-  "projectFilePath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
+  "projectFilePath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jarango\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jarango\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

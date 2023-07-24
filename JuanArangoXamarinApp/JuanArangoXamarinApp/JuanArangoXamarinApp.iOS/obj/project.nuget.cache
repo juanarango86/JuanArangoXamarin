@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZIAoBv0p4SB+IzUzZzmjsz9VKrON7Ds+FBWrDIjGIUZJmCumuonKHK6n0YJXyEKuJkp2iOhFWO39aCdPedTLg==",
+  "dgSpecHash": "WbprywojcYH8eFoqCwC0U2Y2hf+e1KzOJYVOWTJP98pNnbAnWxO5kZ/cALx+ZA00VcIGRbrTaLN2p7PnD+uHlQ==",
   "success": true,
-  "projectFilePath": "C:\\Fuentes\\Xamarin\\capacitacionmobilexamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
+  "projectFilePath": "C:\\Xamarin\\JarangoXamarin\\JuanArangoXamarinApp\\JuanArangoXamarinApp\\JuanArangoXamarinApp.iOS\\JuanArangoXamarinApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jarango\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jarango\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
