@@ -38,6 +38,10 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\JuanArangoXa
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.dll
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\refint\JuanArangoXamarinApp.dll
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.pdb
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.deps.json
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.dll
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\ref\JuanArangoXamarinApp.dll
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.pdb
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.csproj.AssemblyReference.cache
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
@@ -47,10 +51,6 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\ne
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfoInputs.cache
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfo.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.csproj.CoreCompileInputs.cache
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.deps.json
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\ref\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.pdb
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.dll
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\refint\JuanArangoXamarinApp.dll
