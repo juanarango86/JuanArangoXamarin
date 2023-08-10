@@ -13,7 +13,7 @@
     </ContentPage.BindingContext>
     <ContentPage.Content>
         <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
-            <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.JPG}" WidthRequest="200" HeightRequest="200" />
+            <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.jpg}" WidthRequest="200" HeightRequest="200" />
             <!--<Image Source="login.png" WidthRequest="200" HeightRequest="200" Margin="10"></Image>-->
             <Entry Text="{Binding Username}" Placeholder="Usuario" Margin="10" />
             <Entry Text="{Binding Password}" Placeholder="Contraseña" IsPassword="True" Margin="10"/>
