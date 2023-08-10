@@ -1986,3 +1986,4 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp.Android\obj\
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp.Android\obj\Debug\130\res\drawable\gitironman.jpg
