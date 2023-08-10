@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:JuanArangoXamarinApp"
              xmlns:viewModel="clr-namespace:JuanArangoXamarinApp.ViewModels"
              mc:Ignorable="d"
              x:Class="JuanArangoXamarinApp.Views.LoginPage"
@@ -12,7 +13,8 @@
     </ContentPage.BindingContext>
     <ContentPage.Content>
         <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
-            <Image Source="login.png" WidthRequest="200" HeightRequest="200" Margin="10"></Image>
+            <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.JPG}" WidthRequest="200" HeightRequest="200" />
+            <!--<Image Source="login.png" WidthRequest="200" HeightRequest="200" Margin="10"></Image>-->
             <Entry Text="{Binding Username}" Placeholder="Usuario" Margin="10" />
             <Entry Text="{Binding Password}" Placeholder="Contraseña" IsPassword="True" Margin="10"/>
             <Label Text="{Binding WelcomeMessage}" FontSize="Subtitle" TextColor="{Binding MessageColor}" />
