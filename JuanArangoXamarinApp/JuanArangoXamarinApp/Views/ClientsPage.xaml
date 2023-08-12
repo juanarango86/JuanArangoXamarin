@@ -9,7 +9,7 @@
              x:DataType="viewModels:ClientsViewModel"
              xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              x:Class="JuanArangoXamarinApp.Views.ClientsPage"
-             Padding="10">
+             Padding="10,10">
     <ContentPage.Resources>
         <ResourceDictionary>
             <DataTemplate x:Key="ClientDefaultTemplate" x:DataType="models:Client">

@@ -1,4 +1,5 @@
-﻿using JuanArangoXamarinApp.Views;
+﻿using JuanArangoXamarinApp.Resx;
+using JuanArangoXamarinApp.Views;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -111,11 +112,15 @@ namespace JuanArangoXamarinApp.ViewModels
                 }
                 else
                 {
-                    ShowMessage = true;
-                    MessageColor = Color.Red;
-                    WelcomeMessage = "Usuario o contraseña incorrectos";
+                    await Application.Current.MainPage.DisplayAlert(
+                            AppResources.LoginPageInvalidLoginTitle,
+                            AppResources.LoginPageInvalidLoginMessage,
+                            AppResources.OkText);
                 }
+
+
             }
+
         }
     }
 }
