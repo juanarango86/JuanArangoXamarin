@@ -44,6 +44,11 @@ namespace JuanArangoXamarinApp
 
             containerBuilder.RegisterType<AppShell>();
 
+            serviceCollection.AddRefitClient<IAccountApi>(refitSettings)
+                .ConfigureHttpClient(c => c.BaseAddress = new Uri(Settings.ApiBaseUri))
+                .AddHttpMessageHandler<BaseAddressHandler>();
+
+
             // Single Instance Services
             //containerBuilder.RegisterAssemblyTypes(typeof(App).Assembly)
             //    .Where(type => type.Namespace != null && type.Namespace == SINGLE_INSTANCE_SERVICES_NAMESPACE)
