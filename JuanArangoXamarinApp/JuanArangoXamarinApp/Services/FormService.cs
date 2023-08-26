@@ -1,5 +1,6 @@
 ﻿using JuanArangoXamarinApp.Data.API;
 using JuanArangoXamarinApp.Data.Models;
+using JuanArangoXamarinApp.Data.Models.Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace JuanArangoXamarinApp.Services
 {
-    internal class FormService: IFormService
+    public class FormService: IFormService
     {
 
         private readonly IFormApi _formApi;
@@ -16,6 +17,12 @@ namespace JuanArangoXamarinApp.Services
         public FormService(IFormApi formApi)
         {
             _formApi = formApi;
+        }
+
+        public async void PostDatosAsync(FormDto datosDto)
+        {
+            var respuesta = await _formApi.PostFormsAsync(datosDto);
+            throw new NotImplementedException();
         }
 
         public async Task<List<GetForms>> GetForms()

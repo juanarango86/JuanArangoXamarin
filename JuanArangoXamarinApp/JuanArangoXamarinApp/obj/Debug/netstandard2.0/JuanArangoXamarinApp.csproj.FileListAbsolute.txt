@@ -50,6 +50,3 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\ne
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfoInputs.cache
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfo.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.csproj.CoreCompileInputs.cache
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\refint\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.pdb

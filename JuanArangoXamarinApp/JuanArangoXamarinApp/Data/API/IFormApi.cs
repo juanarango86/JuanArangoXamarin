@@ -1,4 +1,5 @@
 ﻿using JuanArangoXamarinApp.Data.Models;
+using JuanArangoXamarinApp.Data.Models.Dto;
 using Refit;
 using System;
 using System.Collections.Generic;
@@ -11,5 +12,8 @@ namespace JuanArangoXamarinApp.Data.API
     {
         [Get("/Formularios")]
         Task<List<GetForms>> GetFormsAsync();
+        
+        [Post("/Formularios")]
+        Task<FormPost> PostFormsAsync(FormDto formDto);
     }
 }

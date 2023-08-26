@@ -12,7 +12,6 @@ using Xamarin.Forms.Internals;
 
 namespace JuanArangoXamarinApp
 {   
-
     public class Startup
     {
         private const string INTERFACE_PREFIX = "I";

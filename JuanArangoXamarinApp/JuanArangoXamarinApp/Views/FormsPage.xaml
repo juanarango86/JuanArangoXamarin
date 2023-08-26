@@ -10,26 +10,12 @@
             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
             x:Class="JuanArangoXamarinApp.Views.FormsPage"
              Padding="10,10">
-    <StackLayout RadioButtonGroup.GroupName="{Binding Forms}"
-             RadioButtonGroup.SelectedValue="{Binding Selection}">
-        <Label Text="¿Cuantos años tienes?" />
-        <RadioButton Content="Entre 0 y 20"
-                 Value="Cat" />
-        <RadioButton Content="Entre 20 y 40"
-                 Value="Dog" />
-        <RadioButton Content="Entre 40 y 60"
-                 Value="Elephant" />
-        <RadioButton Content="Mas de 60"
-                 Value="Monkey"/>
-        <Label x:Name="animalLabel">
-            <Label.FormattedText>
-                <FormattedString>
-                    <Span Text="You have chosen:" />
-                    <Span Text="{Binding Selection}" />
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
-        <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding LoginCommand}" Style="{StaticResource Botones}" Margin="15" />
+    <StackLayout VerticalOptions="Center">
+        <Entry Text="{Binding Respuesta_1}" Placeholder="Usuario" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
+        <Entry Text="{Binding Respuesta_2}" Placeholder="Usuario" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
+        <Entry Text="{Binding Respuesta_3}" Placeholder="Usuario" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
+        <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding GuardarCommand}" Style="{StaticResource Botones}" Margin="15" />
     </StackLayout>
+
 </ContentPage>
     
