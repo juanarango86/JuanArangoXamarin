@@ -14,11 +14,15 @@
              Shell.NavBarIsVisible="False">
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center">
-            <Label Text="EncuestAAP" HorizontalTextAlignment="Center" FontSize="35" BackgroundColor="AliceBlue" />
+            <Label Text="/Encuest@AP/" HorizontalTextAlignment="Center" FontSize="35" BackgroundColor="AliceBlue" />
             <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.jpg}" WidthRequest="300" HeightRequest="300" />
             <Entry Text="{Binding UserName}" Placeholder="Usuario" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
             <Entry Text="{Binding Password}" Placeholder="Contraseña" IsPassword="True" Margin="5" BackgroundColor="LightYellow" FontSize="24" HorizontalTextAlignment="Center"/>
-            <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding LoginCommand}" Style="{StaticResource Botones}" Margin="15" />
+            <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding LoginCommand}" Style="{StaticResource Botones}"  />
+            <Button VerticalOptions="Center" Text="Informacion" Command="{Binding LoginCommand}" Style="{StaticResource Botones}"  />
+            <Label Text="" HorizontalTextAlignment="Center" FontSize="35" BackgroundColor="AliceBlue" />
+            <Label Text="" HorizontalTextAlignment="Center" FontSize="35" BackgroundColor="AliceBlue" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

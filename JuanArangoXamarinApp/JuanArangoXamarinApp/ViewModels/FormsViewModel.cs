@@ -68,6 +68,9 @@ namespace JuanArangoXamarinApp.ViewModels
 
             _formService.PostDatosAsync(datosDto);
 
+            //_respuesta_1 = null;
+            //_respuesta_2 = null;
+            //_respuesta_3 = null;
         }
     }
 
