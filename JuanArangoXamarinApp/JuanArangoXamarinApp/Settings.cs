@@ -6,7 +6,7 @@ namespace JuanArangoXamarinApp
 {
     public static class Settings
     {
-        public const string ApiBaseUri = "http://192.168.80.20:5000/api";
+        public const string ApiBaseUri = "http://192.168.233.183:5000/api";
     }
 
 }

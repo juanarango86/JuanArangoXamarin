@@ -1,11 +1,13 @@
 ﻿using JuanArangoXamarinApp.Data.API;
 using JuanArangoXamarinApp.Data.Models;
 using JuanArangoXamarinApp.Data.Models.Dto;
+using JuanArangoXamarinApp.Resx;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Forms;
 
 namespace JuanArangoXamarinApp.Services
 {
@@ -22,6 +24,12 @@ namespace JuanArangoXamarinApp.Services
         public async void PostDatosAsync(FormDto datosDto)
         {
             var respuesta = await _formApi.PostFormsAsync(datosDto);
+            if (respuesta != null) {
+                await Application.Current.MainPage.DisplayAlert(
+                        "OK",
+                        "Se agrego con exito",
+                        "Aceptar");
+            }
 
         }
 

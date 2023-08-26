@@ -10,14 +10,18 @@
             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
             x:Class="JuanArangoXamarinApp.Views.FormsPage"
              Padding="10,10">
-    <StackLayout VerticalOptions="Center" effects:RoundCornersEffect.CornerRadius="48">
-        <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.jpg}" WidthRequest="300" HeightRequest="300" />
-        <Label Text="¿Cual es tu Edad?" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen"/>
-        <Entry Text="{Binding Respuesta_1}" Placeholder="Ingresa tu edad" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
-        <Label Text="¿Cual es tu Nombre?" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen"  />
-        <Entry Text="{Binding Respuesta_2}" Placeholder="Ingresa Tu Nombre" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
-        <Label Text="¿Tienes Correo Electronico?" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen" />
-        <Entry Text="{Binding Respuesta_3}" Placeholder="Ingresar email" Margin="1" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
+    <StackLayout VerticalOptions="Center">
+        <Label Text="Formulario 001" xct:CornerRadiusEffect.CornerRadius="25" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightBlue"/>
+        <Label Text="Encuesta Personal" xct:CornerRadiusEffect.CornerRadius="25" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightBlue" />
+        <Label Text=""/>
+        <Label Text="¿Cual es tu Edad?" xct:CornerRadiusEffect.CornerRadius="25" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen"/>
+        <Entry Text="{Binding Respuesta_1}" xct:CornerRadiusEffect.CornerRadius="25" Placeholder="Ingresa tu edad" HorizontalTextAlignment="Center" BackgroundColor="LightBlue" FontSize="24"/>
+        <Label Text=""/>
+        <Label Text="¿Cual es tu Nombre?" xct:CornerRadiusEffect.CornerRadius="25" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen"  />
+        <Entry Text="{Binding Respuesta_2}" xct:CornerRadiusEffect.CornerRadius="25" Placeholder="Ingresa Tu Nombre" HorizontalTextAlignment="Center" BackgroundColor="LightBlue" FontSize="24"/>
+        <Label Text=""/>
+        <Label Text="¿Tienes Correo Electronico?" xct:CornerRadiusEffect.CornerRadius="25" HorizontalTextAlignment="Center" FontSize="20" BackgroundColor="LightGreen" />
+        <Entry Text="{Binding Respuesta_3}" xct:CornerRadiusEffect.CornerRadius="25" Placeholder="Ingresar email" Margin="1" HorizontalTextAlignment="Center" BackgroundColor="LightBlue" FontSize="24"/>
         <Button VerticalOptions="Center" Text="Guardar Infomacion" Command="{Binding GuardarCommand}" Style="{StaticResource Botones}" Margin="15" />
     </StackLayout>
 
