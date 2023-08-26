@@ -22,7 +22,7 @@ namespace JuanArangoXamarinApp.Services
         public async void PostDatosAsync(FormDto datosDto)
         {
             var respuesta = await _formApi.PostFormsAsync(datosDto);
-            throw new NotImplementedException();
+
         }
 
         public async Task<List<GetForms>> GetForms()
