@@ -11,6 +11,7 @@ namespace JuanArangoXamarinApp
         public AppShell()
         {
             InitializeComponent();
+            //Registrar nombre formulario  cuando se redirecciona desde una pagina diferente del menu
             
         }
 

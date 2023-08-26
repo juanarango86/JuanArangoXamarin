@@ -45,6 +45,7 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\ne
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\Views\ClientsPage.xaml.g.cs
+C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\Views\FormsPage.xaml.g.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfoInputs.cache
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.AssemblyInfo.cs
@@ -52,8 +53,3 @@ C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\ne
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.dll
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\refint\JuanArangoXamarinApp.dll
 C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\JuanArangoXamarinApp.pdb
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.deps.json
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\ref\JuanArangoXamarinApp.dll
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\bin\Debug\netstandard2.0\JuanArangoXamarinApp.pdb
-C:\Xamarin\JarangoXamarin\JuanArangoXamarinApp\JuanArangoXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp

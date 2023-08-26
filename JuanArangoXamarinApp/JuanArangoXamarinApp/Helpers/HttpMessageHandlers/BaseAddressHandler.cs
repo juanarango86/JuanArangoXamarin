@@ -20,7 +20,7 @@ namespace JuanArangoXamarinApp.Helpers.HttpMessageHandlers
                 request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", _appUserSettingService.UserToken);
             }
 
-            var response = await base.SendAsync(request, cancellationToken);
+    var response = await base.SendAsync(request, cancellationToken);
             return response;
         }
     }

@@ -13,11 +13,11 @@
              x:Class="JuanArangoXamarinApp.Views.LoginPage"
              Shell.NavBarIsVisible="False">
     <ContentPage.Content>
-        <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
-            <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.jpg}" WidthRequest="200" HeightRequest="200" />
-            <Entry Text="{Binding UserName}" Placeholder="Usuario" Margin="10" />
-            <Entry Text="{Binding Password}" Placeholder="Contraseña" IsPassword="True" Margin="10"/>
-            <Button VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}" Style="{StaticResource Botones}"/>
+        <StackLayout VerticalOptions="Center">
+            <Image Source="{local:ImageResource JuanArangoXamarinApp.Resources.Images.duck.jpg}" WidthRequest="300" HeightRequest="300" />
+            <Entry Text="{Binding UserName}" Placeholder="Usuario" Margin="10" HorizontalTextAlignment="Center" BackgroundColor="LightYellow" FontSize="24"/>
+            <Entry Text="{Binding Password}" Placeholder="Contraseña" IsPassword="True" Margin="5" BackgroundColor="LightYellow" FontSize="24" HorizontalTextAlignment="Center"/>
+            <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding LoginCommand}" Style="{StaticResource Botones}" Margin="15" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

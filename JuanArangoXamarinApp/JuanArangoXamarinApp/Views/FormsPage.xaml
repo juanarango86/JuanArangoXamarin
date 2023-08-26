@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:JuanArangoXamarinApp.Data.Models"
+            xmlns:controls="clr-namespace:JuanArangoXamarinApp.Controls"
+            xmlns:viewModels="clr-namespace:JuanArangoXamarinApp.ViewModels"
+            xmlns:utility="clr-namespace:JuanArangoXamarinApp.Helpers"
+            utility:ViewModelLocator.AutoWireViewModel="True"
+            x:DataType="viewModels:FormsViewModel"
+            xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+            x:Class="JuanArangoXamarinApp.Views.FormsPage"
+             Padding="10,10">
+    <StackLayout RadioButtonGroup.GroupName="{Binding Forms}"
+             RadioButtonGroup.SelectedValue="{Binding Selection}">
+        <Label Text="¿Cuantos años tienes?" />
+        <RadioButton Content="Entre 0 y 20"
+                 Value="Cat" />
+        <RadioButton Content="Entre 20 y 40"
+                 Value="Dog" />
+        <RadioButton Content="Entre 40 y 60"
+                 Value="Elephant" />
+        <RadioButton Content="Mas de 60"
+                 Value="Monkey"/>
+        <Label x:Name="animalLabel">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="You have chosen:" />
+                    <Span Text="{Binding Selection}" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Button VerticalOptions="Center" Text="Ingresar" Command="{Binding LoginCommand}" Style="{StaticResource Botones}" Margin="15" />
+    </StackLayout>
+</ContentPage>
+    
